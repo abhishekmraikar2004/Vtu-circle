@@ -1,0 +1,135 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.logo {
+    height: 30px;
+    width: 130px;
+}
+
+.heading {
+    font-size: 17px;
+    background-image: linear-gradient(grey, pink);
+    border-radius: 4px;
+    padding: 4px;
+}
+
+.head {
+    border-radius: 6px;
+    font-size: 20px;
+    padding: 4px;
+
+}
+
+.inside {
+    margin: 10px;
+}
+
+.bg-cse-ise {
+    background-image: url("https://res.cloudinary.com/dhgucckop/image/upload/v1729929003/bg-wood_epw6ty.jpg");
+    background-size: cover;
+    height: 35vh;
+    border-radius: 40px;
+}
+
+.sub-head {
+    font-size: 40px;
+    color: blue;
+    text-align: center;
+    font-weight: bold;
+    font-family: "Roboto";
+}
+
+.bg-cse-ise {
+    background-image: linear-gradient(orange, white, green);
+}
+
+.card1-bg {
+    background-color: white;
+    border-radius: 8px;
+}
+
+.follow-us-section-heading {
+    font-size: 27px;
+    text-decoration: underline;
+}
+
+.icon1 {
+    font-size: 20px;
+    background-image: Radial-gradient(green, white);
+    margin: 10px;
+    border-radius: 15px;
+}
+
+.icon2 {
+    font-size: 20px;
+    background-image: Radial-gradient(violet, violet);
+    margin: 10px;
+    border-radius: 15px;
+}
+
+.icon3 {
+    font-size: 20px;
+    background-image: Radial-gradient(pink, pink);
+    margin: 10px;
+    border-radius: 15px;
+}
+
+.last-head {
+    font-size: 10px;
+    text-align: center;
+    font-weight: 300;
+}
+
+.sub-sections {
+    padding: 20px;
+    height: 185vh;
+    margin: 10px;
+}
+
+
+
+.sub-section-head1 {
+    font-size: 17px;
+    background-image: linear-gradient(grey, pink);
+    border-radius: 4px;
+    padding: 4px;
+    width: 90px;
+    height: 30px;
+    text-align: center;
+}
+
+.sub-section-head2 {
+    font-size: 17px;
+    background-image: linear-gradient(grey, pink);
+    border-radius: 4px;
+    padding: 4px;
+    width: 140px;
+    height: 30px;
+    text-align: center;
+}
+
+.sub-section-0back {
+    font-size: 17px;
+    border-radius: 4px;
+    padding: 4px;
+    width: 140px;
+    height: 30px;
+    text-align: center;
+    border-width: 2px;
+    border-color: black;
+    border-style: solid;
+}
+
+.sub-para {
+    color: white;
+    width: 450px;
+    height: 30px;
+    border-radius: 8px;
+    font-weight: bold;
+}
+
+.border {
+    border-radius: 8px;
+    border-width: 2px;
+    border-color: black;
+    border-style: solid;
+}
